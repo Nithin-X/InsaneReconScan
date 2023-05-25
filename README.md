@@ -50,4 +50,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-InsaneRecScan.sh is developed by Nithin Kumar. You can find the original script at [https://github.com/Nithin-X/InsaneRecScan](https://github.com/Nithin-X/InsaneReconScan).
+InsaneReconScan.sh is developed by Nithin Kumar. You can find the original script at [https://github.com/Nithin-X/InsaneReconScan](https://github.com/Nithin-X/InsaneReconScan).
