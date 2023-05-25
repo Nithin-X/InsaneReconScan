@@ -1,7 +1,5 @@
 # InsaneReconScan
 
-# InsaneRecScan.sh
-
 InsaneRecScan.sh is a bash script that automates the process of performing an insane reconnaissance scan on a target domain. It utilizes various tools like Nmap, Gobuster, Nikto, and WhatWeb to gather information about open ports, directories, and vulnerabilities.
 
 ## Prerequisites
