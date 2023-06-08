@@ -11,11 +11,11 @@ InsaneRecScan.sh is a bash script that automates the process of performing an in
 
 ## Usage
 
-1. Clone the repository or download the InsaneRecScan.sh script.
-2. Make the script executable: `chmod +x InsaneRecScan.sh`
-3. Run the script with the target domain as an argument: `./InsaneRecScan.sh <Domain>`
+1. Clone the repository or download the InsaneReconScan.sh script.
+2. Make the script executable: `chmod +x InsaneReconScan.sh`
+3. Run the script with the target domain as an argument: `./InsaneReconScan.sh <Domain>`
 
-Example: `./InsaneRecScan.sh example.com`
+Example: `./InsaneReconScan.sh example.com`
 
 ## Explanation of the Script
 
